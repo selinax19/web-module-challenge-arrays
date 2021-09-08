@@ -91,6 +91,7 @@ function addFlavor(array, string){
  array.unshift(string)
  return array;
 }
+console.log('task 3:', addFlavor(originalFlavors, 'Rainbow Sherbert'));
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
